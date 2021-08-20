@@ -1,7 +1,7 @@
 
 function newItem(){
 
-    //javascript
+    /*//javascript
     //1. Adding a new item to the list of items: 
        let li = document.createElement("li");
        let inputValue = document.getElementById("input").value;
@@ -37,7 +37,7 @@ function newItem(){
     
     }
     
-     
+     */
     
     
     
@@ -54,7 +54,7 @@ function newItem(){
     
     
     
-      /*
+     
     // jQuery Code
     //1. Adding a new item to the list:
     
@@ -85,7 +85,7 @@ function newItem(){
     // 		li.addClass("delete")
     // 	}
        $('#list').sortable();
-    */
+    }
     
     
     
